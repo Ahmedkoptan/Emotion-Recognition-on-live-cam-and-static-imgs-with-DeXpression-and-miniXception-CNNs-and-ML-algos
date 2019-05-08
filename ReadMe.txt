@@ -59,3 +59,5 @@ Model saving and prediction on testing set will be implemented in a future updat
 The files PCA.py and Landmarks.py are used as reference files for functions written in SVM and that will be written in GNB and LR in future updates
 
 The video file is a sample test using a trained mini Xception network
+
+More networks will be tested and added in future updates
